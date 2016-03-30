@@ -1,2 +1,4 @@
 # hello-world
-A new hello world repository
+A new hello world repository!
+
+I like programming C#!
